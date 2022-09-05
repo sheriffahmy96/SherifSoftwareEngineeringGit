@@ -1,4 +1,4 @@
-## SherifSoftwareEngineeringGit
+# SherifSoftwareEngineeringGit
 ### This git repository is for all the useful links/videos I find to help me with my software engineering goals
 
 
@@ -30,7 +30,7 @@
 
 
 
-### Tools for Coding
+## Tools for Coding
 ##### [Programiz](https://www.programiz.com/python-programming/online-compiler/)
 
 
