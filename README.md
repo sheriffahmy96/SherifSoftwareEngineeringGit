@@ -25,7 +25,6 @@
 
 
 # To Learn in Coding
-#### Exact meaning of Brute Force
 #### [Netcode's 75 Leetcode questions](https://docs.google.com/spreadsheets/d/1A2PaQKcdwO_lwxz9bAnxXnIQayCouZP6d-ENrBz_NXc/edit#gid=0)
 #### [The Big O Notation](https://towardsdatascience.com/the-big-o-notation-d35d52f38134#:~:text=O(N%C2%B2)%20represents%20the%20complexity,100%20operations%2C%20and%20so%20on)
 #### [Hash Table](https://www.interviewcake.com/concept/java/hash-map)
@@ -34,6 +33,8 @@
 #### [Amazon Coding Interview Question - firstNonRepeatingCharacter](https://www.youtube.com/watch?v=5co5Gvp_-S0)
 #### [Contains Duplicate - Leetcode 217 - Python](https://www.youtube.com/watch?v=3OamzN90kPg)
 #### [Introduction to Big O Notation and Time Complexity (Data Structures & Algorithms #7)](https://www.youtube.com/watch?v=D6xkbGLQesk&list=PLBZBJbE_rGRV8D7XZ08LK6z-4zPoWzu5H&index=11)
+#### Exact meaning of Brute Force
+
 
 
 
