@@ -9,10 +9,10 @@
 #### a/b testing
 
 ## Software Engineering Opportunities
-# [Best salaries comparison](https://www.levels.fyi/comp.html?track=Software%20Engineer)
+#### [Best salaries comparison](https://www.levels.fyi/comp.html?track=Software%20Engineer)
 
 ## Python Helpful Links
-#### Python [Glossary](https://docs.python.org/3/glossary.html?utm_medium=Exinfluencer&utm_source=Exinfluencer&utm_content=000026UJ&utm_term=10006555&utm_id=NA-SkillsNetwork-Channel-SkillsNetworkCoursesIBMDeveloperSkillsNetworkPY0101ENSkillsNetwork19487395-2022-01-01#term-iterable)
+#### [Python Glossary](https://docs.python.org/3/glossary.html?utm_medium=Exinfluencer&utm_source=Exinfluencer&utm_content=000026UJ&utm_term=10006555&utm_id=NA-SkillsNetwork-Channel-SkillsNetworkCoursesIBMDeveloperSkillsNetworkPY0101ENSkillsNetwork19487395-2022-01-01#term-iterable)
 #### [Python Cheat Sheet](https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-PY0101EN-SkillsNetwork/handouts/Python%20Cheat%20Sheet%20-%20The%20Basics%20Coursera.pdf)
 #### [Python Parameters and Arguments Demystified](https://betterprogramming.pub/python-parameters-and-arguments-demystified-e4f77b6d002e)
 
