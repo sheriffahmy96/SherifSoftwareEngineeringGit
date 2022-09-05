@@ -22,7 +22,6 @@
 ##### [Amazon Quality Assurance Engineer Role](https://amazon.jobs/en/jobs/2073180/quality-assurance-engineer)
 ##### [Amazon QA Engineer Interview Questions](https://www.interviewkickstart.com/interview-questions/amazon-qa-engineer-interview-questions) 
 ##### [My Job Application Doc](https://docs.google.com/document/d/1lj5wpXushQZSLu5NGQjjlgUAiZ6WrPhsH5r0q0xAmyY/edit) 
-##### []() 
 
 
 
