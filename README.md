@@ -39,7 +39,7 @@
 ##### [Python Cheat Sheet](https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-PY0101EN-SkillsNetwork/handouts/Python%20Cheat%20Sheet%20-%20The%20Basics%20Coursera.pdf)
 ##### [Python Parameters and Arguments Demystified](https://betterprogramming.pub/python-parameters-and-arguments-demystified-e4f77b6d002e)
 ##### [Python Comparison Operators Example](https://www.tutorialspoint.com/python/comparison_operators_example.htm) & [Python - Basic Operators](https://www.tutorialspoint.com/python/python_basic_operators.htm) & [Python Assignment Operators Example](https://www.tutorialspoint.com/python/assignment_operators_example.htm)
-##### [Python While Loops](Python While Loops)
+##### [Python While Loops](https://www.w3schools.com/python/python_while_loops.asp)
 
 
 
