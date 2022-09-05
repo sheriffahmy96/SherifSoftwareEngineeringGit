@@ -1,5 +1,5 @@
 # SherifSoftwareEngineeringGit
-### This git repository is for all the useful links/videos I find to help me with my software engineering goals
+## This git repository is for all the useful links/videos I find to help me with my software engineering goals
 
 
 
