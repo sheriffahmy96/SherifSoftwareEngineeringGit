@@ -15,7 +15,7 @@
 
 ### Tools for Coding
 ##### [Replit](https://replit.com/@SherifFahmy/UtterVitalPerimeter#main.py)
-##### [Thonny](https://thonny.org)
+##### [Thonny](https://thonny.org): Really useful for seeing how nested functions work
 ##### [Programiz](https://www.programiz.com/python-programming/online-compiler/)
 
 
